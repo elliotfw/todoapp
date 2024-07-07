@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: hsl(102, 19%, 55%);
+}
+
+div {
+    width: 75rem;
+    margin: auto;
+}
+
+header {
+    background-color: hsl(102, 23%, 63%);
+    width: 50rem;
+    margin: auto;
+    align-items: center;
+    border-radius: 15px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Rubik';
+    color: hsl(144, 33%, 20%);
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    font-family: 'Rubik';
+    color: hsl(144, 33%, 20%);
+}
+
+ul {
+    width: 50rem;
+    height: 25rem;
+    margin: auto;
+}
+
+button {
+    margin-bottom: 1rem;
+    margin-left: 0.5rem;
+}
+
+.textfield {
+    margin-bottom: 1rem;
+    margin-right: 0.5rem;
+}
